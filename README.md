@@ -6,7 +6,7 @@
 
 💞 Open to collaboration on exciting projects centered around network infrastructure optimization and elevating software quality assurance standards.
 
-📫 Reach out to me via email at your-email@example.com. Let's chat about anything from tech to your favorite hiking spots!
+📫 Reach out to me via email at jaishankar98421@gmail.com. Let's chat about anything from tech to your favorite hiking spots!
 
 😄 Pronouns: He/Him
 
