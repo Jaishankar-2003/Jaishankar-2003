@@ -1,15 +1,15 @@
-👋 Hi there! I'm R Sri Jaya Shankaran, but you can call me @Jaishankar-2003.
+👋 Hi there! I'm R. Sri Jaya Shankaran — an aspiring QA Automation Engineer and Agile QA enthusiast.
 
-👀 Curious about the world of networking technologies, quality assurance methodologies, and always eager to learn something new.
+🔍 Passionate about building reliable, bug-free software through Manual & Automation Testing using tools like Selenium (Java), Postman, and Appium.
 
-🌱 Currently delving into the depths of emerging networking protocols and automation tools, aiming to make processes smoother and more efficient.
+🧠 Currently deepening my skills in Agile Testing practices, test automation frameworks, and preparing for Certified Scrum Master (CSM) certification.
 
-💞 Open to collaboration on exciting projects centered around network infrastructure optimization and elevating software quality assurance standards.
+🌐 Comfortable with cloud testing on AWS (EC2, S3, Lambda) and version control with Git & GitHub.
 
-📫 Reach out to me via email at jaishankar98421@gmail.com. Let's chat about anything from tech to your favorite hiking spots!
+🚀 Open to collaborating on QA projects, test automation tools, and Agile team workflows. Let's bring efficiency and quality to the software delivery process!
 
-😄 Pronouns: He/Him
+📫 Reach me at: jaishankar98421@gmail.com
 
-⚡ Fun fact: When I'm not immersed in tech, you can find me exploring new hiking trails or experimenting with exotic cuisines in the kitchen. Got any recipe recommendations?
+⚡ Fun fact: I began my journey at the hardware and networking level — now applying that system-level thinking to software testing and QA automation.
 
-Excited to connect and brainstorm some groundbreaking solutions together! Let's make magic happen! ✨
+Let’s connect, test smarter, and build better! 🔧✅
