@@ -14,68 +14,31 @@ I'm an SDET with 1+ years of experience designing scalable automation solutions 
 * ☁️ Leverage **AWS** and DevOps tools to enable scalable, cloud-native quality engineering
 * 🔄 Integrate automated testing into modern **CI/CD** workflows
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-**Automation**
+**Automation:** Playwright • Selenium • Java • Python • TestNG • Maven
 
-* Playwright
-* Selenium
-* Java
-* Python
+**API Testing:** Postman • Rest Assured • API Validation • JSON Schema Testing
 
-**API Testing**
+**Performance Testing:** JMeter • K6 • Load Testing • Stress Testing • Scalability Testing
 
-* Postman
-* Rest Assured
+**AI Quality Engineering:** AI Testing • RAG Testing • LLM Evaluation • Prompt Validation • Response Consistency • Hallucination Detection
 
-**Performance Testing**
+**Cloud & DevOps:** AWS (EC2, S3, IAM, Lambda, RDS) • Docker • Kubernetes • Jenkins • Git • Linux • CI/CD
 
-* JMeter
-* K6
+**Project Management:** Jira • Agile • Scrum
 
-**AI Quality Engineering**
+---
 
-* AI Testing
-* RAG Testing
-* LLM Evaluation
-* Prompt Validation
-* Response Consistency Testing
-* Hallucination Detection
+## 🌱 Currently Exploring
 
-**Cloud & DevOps**
+AI Quality Engineering • Advanced RAG Evaluation • Platform Engineering • Cloud-Native Test Automation • Modern DevOps Practices • Scalable Test Architecture
 
-* AWS (EC2, S3, IAM, Lambda, RDS)
-* Docker
-* Kubernetes
-* Jenkins
-* Git
-* Maven
-* Linux
+---
 
-**Project Management**
+## 🤝 Open to Collaborate On
 
-* Jira
-* Agile
-* Scrum
-
-### 🌱 Currently Exploring
-
-* Advanced AI Quality Engineering
-* Platform Engineering
-* Cloud-native Test Automation
-* Modern DevOps Practices
-* Scalable Test Architecture
-
-### 🤝 Let's Collaborate
-
-I'm always interested in collaborating on:
-
-* Test Automation Frameworks
-* AI & LLM Testing
-* API Automation
-* Performance Engineering
-* Open Source QA Tools
-* Cloud & DevOps Projects
+🚀 Test Automation Frameworks • AI & LLM Testing • API Automation • Performance Engineering • Open Source QA Tools • Cloud & DevOps Projects
 
 ### 📫 Connect With Me
 
