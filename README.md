@@ -1,15 +1,87 @@
-👋 Hi there! I'm R. Sri Jaya Shankaran — an aspiring QA Automation Engineer and Agile QA enthusiast.
+# 👋 Hi, I'm R. Sri Jaya Shankaran
 
-🔍 Passionate about building reliable, bug-free software through Manual & Automation Testing using tools like Selenium (Java), Postman, and Appium.
+## Software Development Engineer in Test (SDET) | AWS Certified Solutions Architect – Associate | Quality Engineering Enthusiast
 
-🧠 Currently deepening my skills in Agile Testing practices, test automation frameworks, and preparing for Certified Scrum Master (CSM) certification.
+I'm an SDET with 1+ years of experience designing scalable automation solutions for modern web, mobile, API, cloud, and AI-powered applications. I enjoy building reliable test frameworks, improving release quality, and integrating automation into CI/CD pipelines.
 
-🌐 Comfortable with cloud testing on AWS (EC2, S3, Lambda) and version control with Git & GitHub.
+### 🚀 What I Do
 
-🚀 Open to collaborating on QA projects, test automation tools, and Agile team workflows. Let's bring efficiency and quality to the software delivery process!
+* 🧪 Build robust automation frameworks using **Playwright** and **Selenium**
+* 🔗 Perform comprehensive **API Testing** with **Postman** and **Rest Assured**
+* 🤖 Validate **AI & RAG applications**, including LLM evaluation, prompt validation, hallucination detection, and retrieval accuracy testing
+* ⚡ Execute **Performance Testing** using **JMeter** and **K6**
+* 📱 Automate mobile application testing using **Maestro**
+* ☁️ Leverage **AWS** and DevOps tools to enable scalable, cloud-native quality engineering
+* 🔄 Integrate automated testing into modern **CI/CD** workflows
 
-📫 Reach me at: jaishankar98421@gmail.com
+### 💻 Tech Stack
 
-⚡ Fun fact: I began my journey at the hardware and networking level — now applying that system-level thinking to software testing and QA automation.
+**Automation**
 
-Let’s connect, test smarter, and build better! 🔧✅
+* Playwright
+* Selenium
+* Java
+* Python
+
+**API Testing**
+
+* Postman
+* Rest Assured
+
+**Performance Testing**
+
+* JMeter
+* K6
+
+**AI Quality Engineering**
+
+* AI Testing
+* RAG Testing
+* LLM Evaluation
+* Prompt Validation
+* Response Consistency Testing
+* Hallucination Detection
+
+**Cloud & DevOps**
+
+* AWS (EC2, S3, IAM, Lambda, RDS)
+* Docker
+* Kubernetes
+* Jenkins
+* Git
+* Maven
+* Linux
+
+**Project Management**
+
+* Jira
+* Agile
+* Scrum
+
+### 🌱 Currently Exploring
+
+* Advanced AI Quality Engineering
+* Platform Engineering
+* Cloud-native Test Automation
+* Modern DevOps Practices
+* Scalable Test Architecture
+
+### 🤝 Let's Collaborate
+
+I'm always interested in collaborating on:
+
+* Test Automation Frameworks
+* AI & LLM Testing
+* API Automation
+* Performance Engineering
+* Open Source QA Tools
+* Cloud & DevOps Projects
+
+### 📫 Connect With Me
+
+📧 **Email:** jaishankar98421@gmail.com
+
+---
+
+> *"Quality isn't achieved by testing alone—it's engineered into every stage of software delivery."* 🚀
+
